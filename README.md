@@ -2,6 +2,8 @@
 
 This is a digital project compiled with HTML, JavaScript, and CSS. The website details confirmed and constructed warehouse projects in Franklin, NJ. Originally compiled as part of a documentary project with the Princeton VizE Lab, it can feature interactive graphics and data tables to provide local residents with pertinent information and potential resources. 
 
+To view the website in its current iteration [Click Here](https://warehouse-projects-digital-tool.glitch.me/) - 
+
 _Last updated: 02 Jan 2025_
 
 ## What's in this project?
