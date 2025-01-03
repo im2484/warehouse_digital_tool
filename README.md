@@ -1,6 +1,10 @@
 # Warehouse Data Visualization Tool [Franklin, NJ]
 
-This is a digital project compiled with HTML, JavaScript, and CSS. The website details confirmed and constructed warehouse projects in Franklin, NJ. Originally compiled as part of a documentary project with the Princeton VizE Lab, it can feature interactive graphics and data tables to provide local residents with pertinent information and potential resources. 
+Note: This digital tool is in active development and is subject to modifications. 
+
+This is a digital project compiled with HTML, JavaScript, and CSS. This tool visualizes confirmed and constructed warehouse projects in Franklin, NJ. Originally compiled as part of a documentary project with the Princeton VizE Lab, it can feature interactive graphics and data tables to provide residents with pertinent information and potential resources.
+
+Presently, this tool generates a 3D model of warehouse square footage in Franklin Township, NJ. It proceeds to outline land parcels designated for warehouse use before arriving at an Amazon warehouse project and comparing it side-by-side to the Empire State Building.
 
 To view the website in its current iteration [Click Here](https://warehouse-projects-digital-tool.glitch.me/) - 
 
